@@ -23,6 +23,8 @@ MTG即mtproxy-go版，是mtproxy的分支版本。原版mtproxy在使用一段�
  
 
 wget -N --no-check-certificate https://github.com/whunt1/onekeymakemtg/raw/master/mtproxy_go.sh && chmod +x mtproxy_go.sh && bash mtproxy_go.sh
+
+
 配置文件在 /usr/local/mtproxy-go/mtproxy.conf ，可以手动修改，配置项详细介绍参见 mtg 文档
 
  
